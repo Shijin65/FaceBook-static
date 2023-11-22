@@ -1,0 +1,172 @@
+.maincls{
+    float: top;
+    width: 1510px;
+    background: rgb(255, 255, 255);
+    height: 800px;
+}
+.subcls
+{
+    /* padding-left: 2400px; */
+    float: top;
+    width: 100%;
+    background: rgb(241, 241, 241);
+    height: 550px;
+}
+.content{
+    padding-left:250px ;
+    padding-top: 80px;
+    width: 1250px;
+    height: 700px;
+    background: #ebedf0;;
+}
+
+.logologin
+{
+    padding-left: 20px;
+    background: #ebedf0;
+    height: 450px;
+    width: 1000px;
+}
+.logo{
+    padding-top: 150px;
+    background: #ebedf0;
+    height: 90px;
+    width: 450px; 
+}
+.h2font{ 
+
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+}
+
+
+.logincontainer{
+
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: px;
+    float: right;
+    background: #ebedf0;
+    height: 556px;
+    width: 396px;
+}
+
+.login{
+    
+    padding-top: 100px;
+    
+    float: right;
+    background: rgb(255, 255, 255);
+    width: 390px;
+    height:390px;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    box-sizing: border-box;
+    margin: 40px 0 0;
+    padding: 20px 0 28px;
+    width: 396px;
+}
+.email{
+    
+    padding-top: 5px;
+    padding-left: 15px;
+}
+.emailin{
+    padding-left: 12px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    border: 1px solid rgb(183, 183, 183);
+    border-radius: 8px;
+    height: 50px;
+    width: 350px;
+    background: rgb(255, 255, 255);
+}
+.password{
+    padding-top: 13px;
+    padding-left: 15px;
+}
+.passcls{
+    padding-left: 16px;
+    border: 1px solid rgb(183, 183, 183);
+    border-radius: 8px;
+    height: 50px;
+    width: 345px;
+    background: rgb(255, 255, 255);
+}
+.loginbuttoncontainer{
+    padding-top: 20px;
+    padding-left: 15px;
+
+}
+.loginbutton{
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 25px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 8px;
+    height: 50px;
+    width: 363px;
+
+    background: #336fe7;;
+}
+.forget{
+    font-size: 15px;
+    font-weight: 500;
+    color:  blue;
+}
+
+
+.Createapg{
+background: #ebedf0;
+    padding-top: 430px;
+}
+.newac{
+    padding-top: 30px;
+    padding-left: 75px;
+}
+.newacbutton{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 1px solid rgb(183, 183, 183);
+    border-radius: 8px;
+    height: 50px;
+    width: 250px;
+    color: #ffffff;
+    background: #04d523;;
+}
+
+
+
+.footer
+{
+    background: rgb(255, 255, 255);
+    padding-left: 250px;
+    font-size: 10px;
+    line-height: 30px;
+    width: 1260px;
+    height: 200px;
+}
+.footercontent{
+    color: #949495;
+    margin-top: 160px;
+    background: rgb(255, 255, 255);
+    /* padding-left: 150px; */
+    font-size: 10px;
+    line-height: 30px;
+    width: 1000px;
+    height: 200px;
+    
+
+}
+
+body{margin: 0%;}
+
+
+
+
+
